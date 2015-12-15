@@ -44,8 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Nunit_Examples.cs" />
+    <Compile Include="TestCaseExamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestCaseDataExamples.cs" />
     <Compile Include="ValuesExamples.cs" />
   </ItemGroup>
   <ItemGroup>
